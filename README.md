@@ -6,6 +6,8 @@ Each folder will contain an updated dataset, IPython notebook, and folder of pre
 
 [Link to mid-season predictions blog post.](https://dribbleanalytics.blogspot.com/2019/01/ml-mvp-predict-midseason.html)
 
+[Link to All-Star break predictions blog post.](https://dribbleanalytics.blogspot.com/2019/02/ml-mvp-predict-asb.html)
+
 ## Dates of predictions
 
 The data for the mid-season MVP prediction was gathered on 1/14 before any games were played.
