@@ -12,6 +12,8 @@ Each folder will contain an updated dataset, IPython notebook, and folder of pre
 
 The data for the mid-season MVP prediction was gathered on 1/14 before any games were played.
 
+The data for the All-Star break MVP prediction was gathered during the All-Star break.
+
 ## Data collection
 
 First, I created a database of all the players who were top 10 in MVP voting since the 1979-1980 season up until last year. This was chosen as the cutoff because the 3 point line was introduced that year.
