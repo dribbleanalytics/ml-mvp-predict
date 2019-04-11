@@ -4,15 +4,19 @@ Much of this methodolgy is similar to my previous post, "Finding the least and m
 
 Each folder will contain an updated dataset, IPython notebook, and folder of predictions (graphs). As of now, there's only one folder, which contains mid-season predictions.
 
-[Link to mid-season predictions blog post.](https://dribbleanalytics.blogspot.com/2019/01/ml-mvp-predict-midseason.html)
+[Link to mid-season predictions blog post.](https://dribbleanalytics.blog/2019/01/ml-mvp-predict-midseason)
 
-[Link to All-Star break predictions blog post.](https://dribbleanalytics.blogspot.com/2019/02/ml-mvp-predict-asb.html)
+[Link to All-Star break predictions blog post.](https://dribbleanalytics.blog/2019/02/ml-mvp-predict-asb)
+
+[Link to final predictions.](https://dribbleanalytics.blog/2019/04/ml-mvp-all-nba-predict-2019)
 
 ## Dates of predictions
 
 The data for the mid-season MVP prediction was gathered on 1/14 before any games were played.
 
 The data for the All-Star break MVP prediction was gathered during the All-Star break.
+
+The data for the final prediction was gathered after the end of the regular season.
 
 ## Data collection
 
